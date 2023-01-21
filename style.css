@@ -70,3 +70,11 @@ body {
     left: 48%;
     border-radius: 50%;
 }
+
+.time {
+    position: relative;
+    top: 40%;
+    user-select: none;
+    letter-spacing: 1em;
+    color: #B5B098;
+}
